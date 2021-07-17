@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">food app</string>
+    <string name="login">login</string>
+    <string name="register">Register</string>
+    <string name="cake_gallery">cake gallery</string>
+    <string name="skip">skip</string>
+    <string name="password">.....</string>
+    <string name="email">john07@gmail.com</string>
+</resources>
